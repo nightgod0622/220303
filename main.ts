@@ -1,3 +1,4 @@
 basic.forever(function () {
-    basic.showString("Night-God")
+    basic.showString("Who am are")
+    basic.showString("ZJJ")
 })
